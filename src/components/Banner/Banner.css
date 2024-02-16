@@ -1,0 +1,24 @@
+.banner {
+    background-image: url("https://www.revistatqv.mx/wp-content/uploads/2019/08/04-fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    background-position-y: 550px;
+}
+
+.banner_titulo {
+    margin-top: 140px;
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+}
+.banner_sub_titulo {
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+}

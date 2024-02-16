@@ -1,0 +1,20 @@
+:root{
+  --color-card:  rgba(252, 81, 81, 0.096);
+  --sombra-card-hover:  rgba(230, 29, 29, 0.21);
+  --button-hover: rgba(230, 29, 29, 0.507);
+  --sombra-card: rgba(23, 20, 20, 0.084); 
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.user_page, .page_detail, .page_category {
+  margin-top: 100px;
+}
